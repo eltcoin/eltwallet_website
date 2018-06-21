@@ -40,7 +40,7 @@ export default () => (
 
     <div className="pt3 mb4">
       <a
-        href="https://eltwallet.eltcoin.tech"
+        href="https://itunes.apple.com/us/app/eltwallet/id1302147242"
         target="_blank"
         rel="noopener noreferrer"
         className="dim"
